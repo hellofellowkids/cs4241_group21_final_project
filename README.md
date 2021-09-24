@@ -1,2 +1,3 @@
-# cs4241_group21_final_project
-Final project repository for CS4241
+### CS4241 Group21 Final Project Proposal
+
+Group Members: Aditya Kumar, Matthew Malone, William White
